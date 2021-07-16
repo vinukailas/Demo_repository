@@ -1,0 +1,18 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border-color: aqua;
+}
+.header_row:{
+    background-color: rown;
+}
+.header_row:hover{
+    background-color: cornflowerblue;
+}
+.row:nth-child(even){
+background-color: crimson;
+}
+.row:hover:nth-child(){
+    background-color: cyan;
+}
+.row
